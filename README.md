@@ -1,7 +1,10 @@
 # hello-world
-This is my first repository on github. Therefore hello-world name. I will edit it in future. Keep in touch.
 
-Hi everyone,
+This is my first repository on github. 
+Therefore the name 'hello-world'. 
+I will edit it in future. Keep in touch.
 
-I am a fresher to the coding world. I have basic syntax knowlede of C, C++, JAVA, Python and some fronend languages
+Hey there,
+
+I am new to the coding world. I have basic syntax knowlede of C, C++, JAVA, Python and some fronend languages
 like HTML, CSS, Javascript.
